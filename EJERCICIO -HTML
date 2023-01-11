@@ -1,0 +1,22 @@
+<DOCTYPE html>
+<head>           
+
+<title> "Ejercicio de Introduccion a HTML en OpenBootcamp"</title>
+
+</head>
+
+<body>
+
+<!--Este es mi primer comentario de dos líneas
+Aprendiendo a documentar mi código con OpenBootcamp-->
+
+<ul>
+     <li><a href="https://www.youtube.com/watch?v=Py_-3di1yx0">lana del Rey- Ride</a></li>
+     <li><a href="https://www.youtube.com/watch?v=uuZE_IRwLNI">Justin Timberlake - Mirrors</a></li>
+     <li><a href="https://youtu.be/C_3d6GntKbk?list=RDEMJDQu5fzlbcDS98visFCk6A">ZAYN - PILLOWTALK</a> </li>    
+     
+</ul>
+
+</body>
+
+</DOCTYPE>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+    <html>
+        <head>
+            <title>Ejercicio 02/2 - Tablas en HTML</title>
+        </head>
+
+            <body>
+                <table>
+                    <tr>
+                        <th>Titulo</th>
+                        <th>Autor</th>
+                        <th>Año de Publicacion</th>
+                        <th>Enlace Amazon</th>
+                    </tr>
+
+                    <tr>
+                        <td>El retrato de Dorian Gray</td>
+                        <td>Oscar Wilde</td>
+                        <td>1890</td>
+                        <td><a href="https://www.amazon.com/retrato-Dorian-Gray-Oscar-Wilde/dp/847166464X">Click de compra</a></td>
+                    </tr>
+                    <tr>
+                        <td>El coronel no tiene quien le escriba</td>
+                        <td>Gabriel Garcia Marquez</td>
+                        <td>1961</td>
+                        <td><a href="https://www.amazon.com/-/es/Gabriel-Garc%C3%ADa-M%C3%A1rquez/dp/0307475441">Click de compra</a></td>
+
+                    </tr>
+                    </tr>
+                        <td>María</td>
+                        <td>Jorge Isaacs</td>
+                        <td>1867</td>
+                        <td><a href="https://www.amazon.com/Mar%C3%ADa-Spanish-Jorge-Isaacs/dp/1547168676">Click de compra</a></td>
+                    </tr>
+                </table>
+            </body>
+    </html>

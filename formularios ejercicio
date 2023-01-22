@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Ejercicio de Formularios</title>
+    </head>
+
+    <body>
+        <form action="/" >
+            <label for="nombre">Nombre</label>
+            <input id="nombre">
+            <label for="edad">Edad</label>
+            <input id="edad" type="number">
+            <label for="frasefavorita">Frase Favorita</label>
+            <textarea name="frasefavorita" id="frasefavorita"></textarea>
+            <button>Enviar</button>
+            <button>Reset</button>
+                
+        </form>
+    </body>
+</html>

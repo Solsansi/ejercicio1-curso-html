@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+    <html>
+
+        <head>
+            
+
+        </head>
+
+
+        <body>
+                <div>
+                <h1>Aprendiendo a utilizar imágenes</h1>
+
+                <img src="injustice 2.webp" alt="mi videojuego favorito" width="300" height="200"/>
+                </div>
+               
+                <div>
+                <h1>Aprendiendo a utilizar los vídeos</h1>
+                <video width="300" height="200" controls autoplay loop>
+                    <source src="SHAKIRA __ BZRP Music Sessions #53.mp4" type="video/mp4" />
+                </video>
+
+                </div>
+
+                <div>
+                <h1>Aprendiendo a utilizar los audios</h1>  
+                <audio controls autoplay loop>
+                    <source src="SHAKIRA BZRP Music Sessions #53.wav" type="audio/WAV"  />
+                </audio>
+                </div>
+        </body>
+
+
+    </html>
